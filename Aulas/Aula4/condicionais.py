@@ -1,5 +1,5 @@
 # Condicionais
-a = 5
+a = 2
 b = 5
 if a > b:
     print("A é maior que B")
